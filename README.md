@@ -20,6 +20,6 @@ npm run test-watch
 
 ## to make production version
 ```
-npm build
+npm run build
 ```
 > Production files are generated in _/target/dist_
